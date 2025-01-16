@@ -1,0 +1,855 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\controllers\\interventioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\controllers\\interventioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\interventionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\interventionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\iinterventionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\iinterventionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\intervention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\controllers\\reclamationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\controllers\\reclamationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\interventionpiecederechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\interventionpiecederechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\controllers\\piecederechangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\controllers\\piecederechangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\piecederechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\piecederechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\reclamationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\reclamationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\responsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\responsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115224356_SyncDatabase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115224356_SyncDatabase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115222252_init123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115222252_init123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115222241_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115222241_init12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\clientarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\clientarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115221636_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115221636_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\responsablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\responsablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115215628_AddDescriptionToPieceDeRechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115215628_AddDescriptionToPieceDeRechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115215516_AddDescriptionToPieceDeRechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115215516_AddDescriptionToPieceDeRechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\piecederechangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\piecederechangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\ipiecederechangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\ipiecederechangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\reclamation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\reclamation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\controllers\\responsablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\controllers\\responsablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\employeesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\employeesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\ireclamationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\ireclamationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\iresponsablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\iresponsablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115155029_reclamation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115155029_reclamation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115153404_article2334566555.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115153404_article2334566555.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115123208_article23345665.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115123208_article23345665.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115120636_article23345.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115120636_article23345.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\iclientarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\iclientarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115115754_article2334.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115115754_article2334.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115115401_article233.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115115401_article233.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115112822_article23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115112822_article23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115102743_article1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115102743_article1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115102717_article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250115102717_article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\repositories\\departementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\repositories\\departementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250114141935_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:employeesApi\\Migrations\\20250114141935_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\employeesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\employeesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|c:\\users\\asus\\downloads\\employeesapi\\employeesapi\\employeesapi\\models\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC03692B-ABCB-4D41-8FE0-8B2BEB526408}|employeesApi\\employeesApi.csproj|solutionrelative:employeesapi\\models\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InterventionController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\InterventionController.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Controllers\\InterventionController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\InterventionController.cs",
+              "RelativeToolTip": "employeesApi\\Controllers\\InterventionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:49:37.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReclamationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\ReclamationController.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Controllers\\ReclamationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\ReclamationController.cs",
+              "RelativeToolTip": "employeesApi\\Controllers\\ReclamationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:42:19.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Client.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:18:28.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterventionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\InterventionRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\InterventionRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\InterventionRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\InterventionRepository.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:37:24.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "employeesApi\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:21:14.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:25:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PieceDeRechangeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\PieceDeRechangeController.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Controllers\\PieceDeRechangeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\PieceDeRechangeController.cs",
+              "RelativeToolTip": "employeesApi\\Controllers\\PieceDeRechangeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:50:24.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInterventionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IInterventionRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IInterventionRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IInterventionRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IInterventionRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:28:37.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Intervention.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Intervention.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Intervention.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Intervention.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Intervention.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:22:10.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterventionPieceDeRechange.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\InterventionPieceDeRechange.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\InterventionPieceDeRechange.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\InterventionPieceDeRechange.cs",
+              "RelativeToolTip": "employeesApi\\Models\\InterventionPieceDeRechange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:37:16.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PieceDeRechange.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\PieceDeRechange.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\PieceDeRechange.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\PieceDeRechange.cs",
+              "RelativeToolTip": "employeesApi\\Models\\PieceDeRechange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:23:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReclamationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ReclamationRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\ReclamationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ReclamationRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\ReclamationRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:26:49.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:20:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "employeesApi\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:03:42.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250115224356_SyncDatabase1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115224356_SyncDatabase1.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115224356_SyncDatabase1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115224356_SyncDatabase1.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115224356_SyncDatabase1.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAmwA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:43:56.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "employeesApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\appsettings.json",
+              "RelativeToolTip": "employeesApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T10:05:19.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Program.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Program.cs",
+              "RelativeToolTip": "employeesApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:08:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Responsable.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Responsable.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Responsable.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Responsable.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Responsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:24:26.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Article.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Article.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:18:48.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250115222252_init123.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115222252_init123.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115222252_init123.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115222252_init123.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115222252_init123.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:22:52.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "employeesApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "employeesApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T13:16:35.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250115222241_init12.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115222241_init12.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115222241_init12.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115222241_init12.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115222241_init12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:22:42.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250115221636_init1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115221636_init1.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115221636_init1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115221636_init1.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115221636_init1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:16:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientArticle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\ClientArticle.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\ClientArticle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\ClientArticle.cs",
+              "RelativeToolTip": "employeesApi\\Models\\ClientArticle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:02:35.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ResponsableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ResponsableRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\ResponsableRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ResponsableRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\ResponsableRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:38:22.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250115215628_AddDescriptionToPieceDeRechange.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115215628_AddDescriptionToPieceDeRechange.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115215628_AddDescriptionToPieceDeRechange.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115215628_AddDescriptionToPieceDeRechange.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115215628_AddDescriptionToPieceDeRechange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:56:28.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250115215516_AddDescriptionToPieceDeRechange.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115215516_AddDescriptionToPieceDeRechange.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115215516_AddDescriptionToPieceDeRechange.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115215516_AddDescriptionToPieceDeRechange.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115215516_AddDescriptionToPieceDeRechange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:55:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IPieceDeRechangeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IPieceDeRechangeRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IPieceDeRechangeRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IPieceDeRechangeRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IPieceDeRechangeRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:29:29.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PieceDeRechangeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\PieceDeRechangeRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\PieceDeRechangeRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\PieceDeRechangeRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\PieceDeRechangeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:37:58.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Reclamation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Reclamation.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Reclamation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Reclamation.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Reclamation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:19:01.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "employeesApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\employeesApi.csproj",
+              "RelativeDocumentMoniker": "employeesApi\\employeesApi.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\employeesApi.csproj",
+              "RelativeToolTip": "employeesApi\\employeesApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T13:55:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResponsableController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\ResponsableController.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Controllers\\ResponsableController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Controllers\\ResponsableController.cs",
+              "RelativeToolTip": "employeesApi\\Controllers\\ResponsableController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:51:10.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "employeesApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\WeatherForecast.cs",
+              "RelativeToolTip": "employeesApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:52:35.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:14:34.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IReclamationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IReclamationRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IReclamationRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IReclamationRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IReclamationRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:20:18.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IResponsableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IResponsableRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IResponsableRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IResponsableRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IResponsableRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:29:59.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250115155029_reclamation1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115155029_reclamation1.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115155029_reclamation1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115155029_reclamation1.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115155029_reclamation1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:50:29.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250115153404_article2334566555.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115153404_article2334566555.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115153404_article2334566555.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115153404_article2334566555.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115153404_article2334566555.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:34:05.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250115123208_article23345665.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115123208_article23345665.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115123208_article23345665.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115123208_article23345665.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115123208_article23345665.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:32:08.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:24:06.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250115120636_article23345.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115120636_article23345.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115120636_article23345.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115120636_article23345.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115120636_article23345.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:06:36.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IClientArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IClientArticleRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IClientArticleRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IClientArticleRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IClientArticleRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:49:43.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250115115754_article2334.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115115754_article2334.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115115754_article2334.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115115754_article2334.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115115754_article2334.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:57:55.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250115112822_article23.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115112822_article23.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115112822_article23.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115112822_article23.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115112822_article23.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:28:22.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250115115401_article233.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115115401_article233.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115115401_article233.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115115401_article233.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115115401_article233.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:54:01.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250115102743_article1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115102743_article1.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115102743_article1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115102743_article1.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115102743_article1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:27:43.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\IArticleRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:20:02.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250115102717_article.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115102717_article.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250115102717_article.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250115102717_article.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250115102717_article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:27:17.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DepartementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\DepartementRepository.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Repositories\\DepartementRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Repositories\\DepartementRepository.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Repositories\\DepartementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:18:14.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250114141935_intial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250114141935_intial.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Migrations\\20250114141935_intial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Migrations\\20250114141935_intial.cs",
+              "RelativeToolTip": "employeesApi\\Migrations\\20250114141935_intial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:19:35.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "employeesApi.http",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\employeesApi.http",
+              "RelativeDocumentMoniker": "employeesApi\\employeesApi.http",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\employeesApi.http",
+              "RelativeToolTip": "employeesApi\\employeesApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-06T16:52:51.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Departement.cs",
+              "RelativeDocumentMoniker": "employeesApi\\Models\\Departement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\employeesApi\\employeesApi\\employeesApi\\Models\\Departement.cs",
+              "RelativeToolTip": "employeesApi\\Models\\Departement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:58:17.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
